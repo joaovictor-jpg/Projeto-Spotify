@@ -68,6 +68,10 @@ nav.navbar-transparente {
     color: black;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+
 /* Estrutura conteúdo */
 
 .caixa {
